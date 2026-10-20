@@ -1,7 +1,6 @@
-# ba-780-team-assignment
 # Constructing an Intermodal U.S. Hurricane Relief Network
 
-**Boston University | BA 780 | Team A01**
+Team A01**
 
 ## Team Members
 

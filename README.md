@@ -1,6 +1,6 @@
 # Constructing an Intermodal U.S. Hurricane Relief Network
 
-Team A01**
+Team A01
 
 ## Team Members
 

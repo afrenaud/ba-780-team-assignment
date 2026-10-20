@@ -187,5 +187,3 @@ Alejandra Hurtado Burghardt and Chao-Tsun (Sonic) Hsu worked on the hurricane an
 The full list of references, methodology details, and individual generative AI disclosures are included in the final Jupyter Notebook.
 
 ---
-
-**Boston University — BA 780 | Team A01**
